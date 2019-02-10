@@ -12,3 +12,5 @@ I think if I do the ssh-agent add keys to it, then it will work.
 Doing this in the shell.
 `eval $(ssh-agent -s)`
 `ssh-add ~/.ssh/id_rsa`
+
+Still asked for it after adding this.

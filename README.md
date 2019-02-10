@@ -14,3 +14,6 @@ Doing this in the shell.
 `ssh-add ~/.ssh/id_rsa`
 
 Still asked for it after adding this.
+Didn't help.
+
+Tried making a symbolic link.

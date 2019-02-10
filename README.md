@@ -3,4 +3,5 @@ testing my setup
 
 This line here is from THE RSTUDIO
 
-and it still wants my passphrase.
+And I think I've got it all good.
+Passphrase was only asked for once.
